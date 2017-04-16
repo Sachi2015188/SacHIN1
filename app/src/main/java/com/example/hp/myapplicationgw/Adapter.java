@@ -10,7 +10,7 @@ import android.widget.TextView;
 import java.util.List;
 
 /**
- * Created by Thevaki on 4/15/2017.
+ * Created by Hp on 4/15/2017.
  */
 
 public class Adapter extends ArrayAdapter<FirebaseDB> {
