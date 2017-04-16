@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1027310699437",
+    "firebase_url": "https://coolyourcar-2a70f.firebaseio.com",
+    "project_id": "coolyourcar-2a70f",
+    "storage_bucket": "coolyourcar-2a70f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027310699437:android:167f2abcda9234ff",
+        "android_client_info": {
+          "package_name": "com.example.hp.myapplicationgw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027310699437-4bpvr8bcu34tip193ublajs3bte39k66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.myapplicationgw",
+            "certificate_hash": "f8f360dde1f8f353863d47c3fe6257c59ad79278"
+          }
+        },
+        {
+          "client_id": "1027310699437-088ad546mksrvpv6idjvnqerb6loev9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0JgB0C_vXy-8ORplErK1VfOfsL_CJMAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027310699437-088ad546mksrvpv6idjvnqerb6loev9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

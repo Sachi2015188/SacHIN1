@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application(GW)</string>
+    <color name="blue">#651FFF</color>
+    <color name="blue2">#96C5FF</color>
+</resources>
