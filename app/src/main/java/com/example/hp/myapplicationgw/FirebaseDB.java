@@ -1,7 +1,7 @@
 package com.example.hp.myapplicationgw;
 
 /**
- * Created by Thevaki on 4/15/2017.
+ * Created by Hp on 4/15/2017.
  */
 
 public class FirebaseDB {
